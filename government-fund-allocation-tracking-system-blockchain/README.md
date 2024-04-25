@@ -1,10 +1,10 @@
 # Project Name
- Repo for Sem 8 Blockchain Lab Project ( Government Fund Allocation and Tracking System )
- Project by : 
-             IT-A-40 Rushikesh Mane
-             IT-A-48 Pawan Nemane
-             IT-A-58 Sahil Pisal
-             IT-A-75 Varad Yelamkar
+ Repo for Sem 8 Blockchain Lab Project ( Government Fund Allocation and Tracking System )  
+ Project by :   
+             IT-A-40 Rushikesh Mane  
+             IT-A-48 Pawan Nemane    
+             IT-A-58 Sahil Pisal  
+             IT-A-75 Varad Yelamkar  
 
 # Software / Tools / Packages Required
 1. VS Code : To compile and run the project
