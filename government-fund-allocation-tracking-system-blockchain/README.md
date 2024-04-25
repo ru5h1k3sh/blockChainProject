@@ -1,5 +1,5 @@
 # Project Name
- Repo for Sem * Blockchain Lab Project ( Government Fund Allocation and Tracking System )
+ Repo for Sem 8 Blockchain Lab Project ( Government Fund Allocation and Tracking System )
  Project by : 
              IT-A-40 Rushikesh Mane
              IT-A-48 Pawan Nemane
