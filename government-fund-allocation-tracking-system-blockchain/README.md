@@ -1,21 +1,23 @@
 # Project Name
-Official Repo for Government Fund Allocation and Tracking System
+ Repo for Sem * Blockchain Lab Project ( Government Fund Allocation and Tracking System )
+ Project by : 
+             IT-A-40 Rushikesh Mane
+             IT-A-48 Pawan Nemane
+             IT-A-58 Sahil Pisal
+             IT-A-75 Varad Yelamkar
 
-# Softwares
-1. VS Code
-2. NodeJs
-3. Truffle
-4. Ganache
+# Software / Tools / Packages Required
+1. VS Code : To compile and run the project
+2. NodeJs : Backend
+3. Truffle : Testing
+4. Ganache : To create users and give them credentials
 5. Visual C++ Build Tools
-6. Python3
+6. Python3 : Pyth9on compiler
 
 # Steps
-1. Clone Repo
-2. Compile the contract (truffle compile)
-3. Migrate Contract (truffle migrate)
-4. Replace Contract Addresses of Register and Funds in app.py
-5. cd src
-6. python app.py to run server
+1. Compile the contract (truffle compile)
+2. Migrate Contract (truffle migrate)
+3. Replace Contract Addresses of Register and Funds in app.py
+4. cd src
+5. python app.py to run server
 
-# Questions
-For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
